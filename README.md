@@ -52,12 +52,18 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
