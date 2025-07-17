@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0189-rotate-array) |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0150-evaluate-reverse-polish-notation) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
