@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0189-rotate-array) |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0018-4sum) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
