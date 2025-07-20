@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
