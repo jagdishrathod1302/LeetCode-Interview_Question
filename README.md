@@ -39,6 +39,7 @@
 | [0018-4sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
+| [0567-permutation-in-string](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
