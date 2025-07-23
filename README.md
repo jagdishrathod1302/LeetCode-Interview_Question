@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0047-permutations-ii) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/jagdishrathod1302/LeetCode-Interview_Question/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
